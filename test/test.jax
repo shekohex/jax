@@ -1,0 +1,6 @@
+main() {
+    int x;
+    x = "Hello, Jex";
+    printf("%s\n", x);
+    return 0;
+}
